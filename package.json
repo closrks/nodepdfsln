@@ -1,0 +1,15 @@
+{
+  "name": "nodepdfkit",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlosavila.ce@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "pdfkit": "~0.5.2",
+    "node-phantom": "~0.2.5"
+  }
+}
